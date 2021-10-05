@@ -10,3 +10,7 @@
     
 ### 2. Irregularity (card fraud) detection
 [Jupyter notebook](credit%20card%20fraud%20detection%20v2.ipynb)
+
+<p float="left">
+<img src="img/difference.png" height="200" width="300">
+</p>
