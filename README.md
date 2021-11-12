@@ -7,6 +7,8 @@
 
 ### 1. Anomaly detection and visualization
 [Jupyter notebook](Boston%20housing%20outliers.ipynb)
+
+<img src="img/outliers.png" height="200" width="400"><img src="img/cooks_distance.png" height="40" width="80">
     
 ### 2. Irregularity (card fraud) detection
 [Jupyter notebook](credit%20card%20fraud%20detection%20v2.ipynb)
